@@ -12,3 +12,6 @@ sooo… I guess **"It's Horizon Time"?**
 - [GLM](https://github.com/g-truc/glm/releases/tag/1.0.1) – Math library for vectors & matrices
 - [MiniAudio](https://github.com/mackron/miniaudio/releases/tag/0.11.22) – Lightweight audio engine
 - [ImGui](https://github.com/ocornut/imgui/releases/tag/v1.92.2b) – The coolest debug GUI ever
+
+## Team Members:
+- [Catto](https://bsky.app/profile/catto.has.fish) - "Only dis guy... he feels pain workin lone, lol" -Catto
