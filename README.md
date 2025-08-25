@@ -3,7 +3,7 @@
 ---
 
 **Horizon Engine** is meant for fast-paced games, like *Freedom Planet 1/2* or the *Sonic* series.  
-I'm focusing only on **2D**, because setting up 3D and momentum physics is a pain…  
+I'm focusing only on **2D**, because setting up 3D and 3D momentum physics is a pain…  
 sooo… I guess **"It's Horizon Time"!**
 
 ## What we'll use:
